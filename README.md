@@ -18,11 +18,11 @@ Along with the views and controllers are defined in this application, I implemen
 
 ## Tech Stack (Dependencies)
 
-Our tech stack will include the following:
+The tech stack I used includes the following:
  * **virtualenv** as a tool to create isolated Python environments
- * **SQLAlchemy ORM** to be our ORM library of choice
- * **PostgreSQL** as our database of choice
- * **Python3** and **Flask** as our server language and server framework
+ * **SQLAlchemy ORM** ORM library of choice
+ * **PostgreSQL** database of choice
+ * **Python3** and **Flask** server language and server framework
  * **Flask-Migrate** for creating and running schema migrations
  * **HTML**, **CSS**, and **Javascript** with Bootstrap 3 for the website's frontend.
 
