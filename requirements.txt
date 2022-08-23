@@ -60,7 +60,7 @@ PyScreeze==0.1.28
 python-dateutil==2.8.2
 pytweening==1.0.4
 pytz==2022.1
-pywin32==304
+pywin32==304;platform_system == "Windows"
 pyzmq==23.1.0
 scikit-learn==1.1.1
 scipy==1.9.0
