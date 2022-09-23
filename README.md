@@ -15,6 +15,11 @@ Along with the views and controllers are defined in this application, I implemen
 * searching for venues and artists.
 * learning more about a specific artist or venue.
 
+## Demo video
+
+https://user-images.githubusercontent.com/82163647/192051762-e900f553-dc3a-4121-9b17-170c8d115c1a.mp4
+
+
 
 ## Tech Stack (Dependencies)
 
